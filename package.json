@@ -1,0 +1,1 @@
+﻿{ "private": true, "description": "Front-end libraries copied into public/vendor by npm run vendor", "scripts": { "vendor": "node scripts/copy-vendor.mjs" }, "devDependencies": { "bootstrap": "5.3.3", "bootstrap-icons": "1.11.3", "alpinejs": "3.14.1", "chart.js": "4.4.4" } }
